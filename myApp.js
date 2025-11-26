@@ -1,39 +1,7 @@
-let express = require('express');
-let app = express();
+const express = require('express');
+const app = express();
 
+// Just log to the console
+console.log("Hello World");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- module.exports = app;
+module.exports = app;
